@@ -1,0 +1,16 @@
+[
+  {
+    "id": "electric-organ",
+    "name": "Organe électrique",
+    "type": "material",
+    "value": 15
+  },
+  {
+    "id": "small-potion",
+    "name": "Petite potion",
+    "type": "consumable",
+    "effect": {
+      "health": 30
+    }
+  }
+]

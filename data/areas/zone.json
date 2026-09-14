@@ -1,0 +1,8 @@
+[
+    {
+        "id": 1,
+        "name": "Route 1",
+        "description": "A peaceful path through the forest, home to various creatures.",
+        "creatures": ["voltou"]
+    }
+]

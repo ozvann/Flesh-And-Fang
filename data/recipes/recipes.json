@@ -1,0 +1,19 @@
+[
+  {
+    "id": "electric-sword",
+    "result": {
+      "itemId": "electric-sword",
+      "quantity": 1
+    },
+    "ingredients": [
+      {
+        "itemId": "iron-sword",
+        "quantity": 1
+      },
+      {
+        "itemId": "electric-organ",
+        "quantity": 3
+      }
+    ]
+  }
+]

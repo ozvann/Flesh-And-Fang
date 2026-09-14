@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "name": "Graine sur pate",
+    "level": 5,
+    "stats": {
+      "health": 80,
+      "attack": 12,
+      "defense": 8,
+      "speed": 15
+    },
+    "elements": ["plante", "poison"],
+    "habitats": [1],
+    "capacite": [
+      {
+        "name": "Fouet végétal",
+        "type": "attaque",
+        "element": "plante",
+        "power": 20,
+        "accuracy": 90
+      },
+      {
+        "name": "Piqûre toxique",
+        "type": "attaque",
+        "element": "poison",
+        "power": 15,
+        "accuracy": 95
+      }
+    ],
+    "loot": [
+      {
+        "itemId": "electric-organ",
+        "chance": 0.65,
+        "minQuantity": 1,
+        "maxQuantity": 1
+      },
+      {
+        "itemId": "fang",
+        "chance": 0.2,
+        "minQuantity": 1,
+        "maxQuantity": 4
+      }
+    ]
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "id": "iron-sword",
+    "name": "Épée en fer",
+    "type": "sword",
+    "damage": 18,
+    "speed": 10,
+    "element": null,
+    "effects": []
+  }
+]
